@@ -15,53 +15,29 @@
 		<copyright><![CDATA[Yu Wang]]></copyright>
 		<language><![CDATA[zh]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Yu Wang</itunes:author>
-		<itunes:summary>床前明月光</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>Yu Wang</itunes:name>
-			<itunes:email></itunes:email>
-		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Leisure"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10014170/10014170-1603149144647-15a83eee88173.jpg"/>
 		<item>
 			<title><![CDATA[2020-10-18]]></title>
-			<description><![CDATA[<p>2020-10-18</p>
-]]></description>
+			<description><![CDATA[<p>2020-10-18</p>]]></description>
 			<link>https://anchor.fm/gongxifacai/episodes/2020-10-18-elet7e</link>
 			<guid isPermaLink="false">7e41dd82-41a1-4f01-baa3-78f36d776543</guid>
 			<dc:creator><![CDATA[Yu Wang]]></dc:creator>
 			<pubDate>Mon, 19 Oct 2020 01:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/3c48ffa8/podcast/play/21508782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-22%2F121141629-44100-2-fd61e23f12bc4.m4a" length="75388117" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;2020-10-18&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>4654</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10014170/10014170-1603149144647-15a83eee88173.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[2020-10-17]]></title>
-			<description><![CDATA[<p>2020-10-17</p>
-]]></description>
+			<description><![CDATA[<p>2020-10-17</p>]]></description>
 			<link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
 			<guid isPermaLink="false">8d0a475e-d7a7-4edf-960c-6c02bbaa5664</guid>
 			<dc:creator><![CDATA[Yu Wang]]></dc:creator>
 			<pubDate>Sun, 18 Oct 2020 01:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/3c48ffa8/podcast/play/21508801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-22%2F121141413-44100-2-90f825039504f.m4a" length="76381560" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;2020-10-17&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>4715</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10014170/10014170-1603149144647-15a83eee88173.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[2020-10-11]]></title>
 			<description><![CDATA[<p>2020-10-11</p>]]></description>
 			<link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
-			<guid isPermaLink="false">8d0a475e-d7a7-4edf-960c-6c02bbaa5664</guid>
+			<guid isPermaLink="false">8d0a475e-d7a7-4edf-960c-6c02bbaa5665</guid>
 			<dc:creator><![CDATA[Yu Wang]]></dc:creator>
 			<pubDate>Sun, 11 Oct 2020 01:00:00 GMT</pubDate>
 			<enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.11.mp3" type="audio/x-mp3"/>
