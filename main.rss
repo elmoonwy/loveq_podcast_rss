@@ -57,5 +57,15 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/10014170/10014170-1603149144647-15a83eee88173.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		<item>
+			<title><![CDATA[2020-10-11]]></title>
+			<description><![CDATA[<p>2020-10-11</p>
+]]></description>
+			<link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+			<guid isPermaLink="false">8d0a475e-d7a7-4edf-960c-6c02bbaa5664</guid>
+			<dc:creator><![CDATA[Yu Wang]]></dc:creator>
+			<pubDate>Sun, 11 Oct 2020 01:00:00 GMT</pubDate>
+			<enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.11.mp3" type="audio/x-mp3"/>
+		</item>
 	</channel>
 </rss>
