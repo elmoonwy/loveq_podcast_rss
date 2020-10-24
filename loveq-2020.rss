@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
- <chanel>
+ <channel>
    <title><![CDATA[loveq-2020]]></title>
    <description><![CDATA[loveq podcast]]></description>
    <link>https://anchor.fm/gongxifacai</link>
@@ -19,10 +19,937 @@
      <title><![CDATA[2020-01-04]]></title>
      <description><![CDATA[<p>2020-01-04</p>]]></description>
      <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
-     <guid isPermaLink="false">a0a4ca9e-0055-4761-ad9c-d703647dcd1e</guid>
+     <guid isPermaLink="false">fc32ea96-9742-473f-9aa0-849c2f537ff8</guid>
      <dc:creator><![CDATA[Marshall]]></dc:creator>
      <pubDate>Sat, 04 Jan 2020 06:00:00 GMT</pubDate>
      <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.04.mp3" type="audio/mpeg"/>
    </item>
- </chanel>
+   <item>
+     <title><![CDATA[2020-01-05]]></title>
+     <description><![CDATA[<p>2020-01-05</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">65346600-3c6c-4c71-8045-5a2e7cb864cb</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 05 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.05.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-01-11]]></title>
+     <description><![CDATA[<p>2020-01-11</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">b7ba28a3-6b4b-4c68-9d05-769556c60124</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 11 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.11.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-01-12]]></title>
+     <description><![CDATA[<p>2020-01-12</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">4c16fc06-6203-4895-bdd5-cd2d2b1b3a57</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 12 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.12.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-01-18]]></title>
+     <description><![CDATA[<p>2020-01-18</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">4eddaf69-5735-4671-918b-9988509b5620</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 18 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.18.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-01-19]]></title>
+     <description><![CDATA[<p>2020-01-19</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">fcee5bbe-43ac-462e-95b0-ef5518b3c882</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 19 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.19.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-01-25]]></title>
+     <description><![CDATA[<p>2020-01-25</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">af8f0a12-f477-4e0c-a708-fbdbc1930879</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 25 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.25.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-01-26]]></title>
+     <description><![CDATA[<p>2020-01-26</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2a2265b6-e5a0-4e15-bcdf-c16cfc48581c</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 26 Jan 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.01.26.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-01]]></title>
+     <description><![CDATA[<p>2020-02-01</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">1bc53e17-4f19-482e-8b22-593bb0ff3ef8</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 01 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.01.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-02]]></title>
+     <description><![CDATA[<p>2020-02-02</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">97209494-c056-4ad7-a50f-f265a4a9a494</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 02 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.02.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-08]]></title>
+     <description><![CDATA[<p>2020-02-08</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">f019abff-88c7-47f1-b886-8227f5552e4d</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 08 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.08.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-09]]></title>
+     <description><![CDATA[<p>2020-02-09</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">9cfc91f5-1186-4817-ae2e-94c3585ed93d</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 09 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.09.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-15]]></title>
+     <description><![CDATA[<p>2020-02-15</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">09fa8da2-36f3-45a8-81a4-0817ff9623c3</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 15 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.15.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-16]]></title>
+     <description><![CDATA[<p>2020-02-16</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">cb872064-1ba7-4285-a545-68ba6e1c013a</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 16 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.16.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-22]]></title>
+     <description><![CDATA[<p>2020-02-22</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">7aab123f-ea5f-4888-8c72-54e3d17c3400</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 22 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.22.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-23]]></title>
+     <description><![CDATA[<p>2020-02-23</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">654b52e0-7824-438f-9b97-567c0d78ca38</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 23 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.23.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-02-29]]></title>
+     <description><![CDATA[<p>2020-02-29</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2ff0887b-5abc-48a2-9067-8bb8967ca567</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 29 Feb 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.02.29.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-01]]></title>
+     <description><![CDATA[<p>2020-03-01</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">0d6a20d8-779f-43b2-be8e-ee8cece08f2b</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 01 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.01.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-07]]></title>
+     <description><![CDATA[<p>2020-03-07</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">f805907b-ce37-4fdb-b4d8-78dbd5b76071</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 07 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.07.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-08]]></title>
+     <description><![CDATA[<p>2020-03-08</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">d77cf238-041e-45bc-b9d1-38928c31a9e5</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 08 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.08.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-14]]></title>
+     <description><![CDATA[<p>2020-03-14</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">e191ad3c-2b4a-4ebe-83a9-ec1f4cbd3748</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 14 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.14.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-15]]></title>
+     <description><![CDATA[<p>2020-03-15</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">34ba294b-ba3f-4c2f-9442-85b575bd4c40</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 15 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.15.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-21]]></title>
+     <description><![CDATA[<p>2020-03-21</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">9f8e8884-b078-40ad-8d91-07f3577267f8</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 21 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.21.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-22]]></title>
+     <description><![CDATA[<p>2020-03-22</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">d6a4b841-9242-4417-9b78-0bdec31a7482</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 22 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.22.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-28]]></title>
+     <description><![CDATA[<p>2020-03-28</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">4e034e95-6246-4ee3-bd8f-911c79dbf75d</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 28 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.28.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-03-29]]></title>
+     <description><![CDATA[<p>2020-03-29</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">1528d966-06fb-4fc8-bb5a-c5c8a7c7bc59</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 29 Mar 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.03.29.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-04]]></title>
+     <description><![CDATA[<p>2020-04-04</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">40ae5df3-9ae2-48a3-92b5-bb1e1d5291dc</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 04 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.04.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-05]]></title>
+     <description><![CDATA[<p>2020-04-05</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">39370b94-be88-4e8b-a23b-a31eef721f90</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 05 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.05.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-11]]></title>
+     <description><![CDATA[<p>2020-04-11</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">0131d1c1-a134-4dc5-b095-90141bbfc858</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 11 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.11.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-12]]></title>
+     <description><![CDATA[<p>2020-04-12</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a227c6ec-0aaf-426b-b2be-6bdfab6962ad</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 12 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.12.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-18]]></title>
+     <description><![CDATA[<p>2020-04-18</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">38e2fdf7-3fc6-43de-9d70-ddb1512a2cec</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 18 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.18.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-19]]></title>
+     <description><![CDATA[<p>2020-04-19</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a35b2342-0663-4c01-8c28-c59bdca169a3</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 19 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.19.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-25]]></title>
+     <description><![CDATA[<p>2020-04-25</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">5ba9bc20-29a2-443c-9d89-de3be44b97c6</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 25 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.25.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-04-26]]></title>
+     <description><![CDATA[<p>2020-04-26</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2f102604-6633-4b03-93d1-c74108961d7f</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 26 Apr 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.04.26.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-02]]></title>
+     <description><![CDATA[<p>2020-05-02</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">13fca704-d19c-4362-871a-171506f07330</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 02 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.02.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-03]]></title>
+     <description><![CDATA[<p>2020-05-03</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">4d294127-42c3-4cbe-b4a7-d03a42dd28ca</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 03 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.03.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-09]]></title>
+     <description><![CDATA[<p>2020-05-09</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">501f61ca-a23b-4b42-8eec-2b9e6ae22af6</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 09 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.09.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-10]]></title>
+     <description><![CDATA[<p>2020-05-10</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">363f4bcd-ea36-44bb-90b1-bcf765a2276d</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 10 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.10.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-16]]></title>
+     <description><![CDATA[<p>2020-05-16</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">3ea4b093-f523-4259-a083-fb5dd0f12239</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 16 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.16.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-17]]></title>
+     <description><![CDATA[<p>2020-05-17</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">b623cae0-f4ae-4ff4-aa1b-fb5d4df60ea8</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 17 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.17.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-23]]></title>
+     <description><![CDATA[<p>2020-05-23</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">18841f8b-b034-43a6-8778-b1e805b9bf8f</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 23 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.23.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-24]]></title>
+     <description><![CDATA[<p>2020-05-24</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">242b4465-f435-453d-b4e0-3fd4888192ee</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 24 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.24.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-30]]></title>
+     <description><![CDATA[<p>2020-05-30</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2c1c843d-4d4c-455d-9c8f-4ebd4e880a49</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 30 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.30.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-05-31]]></title>
+     <description><![CDATA[<p>2020-05-31</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2efbe08f-8488-4943-ad16-96f3b11bb153</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 31 May 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.05.31.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-06]]></title>
+     <description><![CDATA[<p>2020-06-06</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">346cf9a6-2a32-4092-aaab-467361d01198</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 06 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.06.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-07]]></title>
+     <description><![CDATA[<p>2020-06-07</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">4ce60cb1-829d-4f7a-886a-00278ece8100</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 07 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.07.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-13]]></title>
+     <description><![CDATA[<p>2020-06-13</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">9bb3237a-aaa1-41f5-8474-f90be124adac</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 13 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.13.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-14]]></title>
+     <description><![CDATA[<p>2020-06-14</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">221f099c-f768-410f-89ad-89bcd952671b</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 14 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.14.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-20]]></title>
+     <description><![CDATA[<p>2020-06-20</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">7f676a9c-5137-4d27-9fd2-f53699af558f</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 20 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.20.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-21]]></title>
+     <description><![CDATA[<p>2020-06-21</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">384894ca-32bc-4de3-9080-ba87fe1be49b</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 21 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.21.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-27]]></title>
+     <description><![CDATA[<p>2020-06-27</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">9c7f4e17-580d-49bc-b26a-04957b364207</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 27 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.27.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-06-28]]></title>
+     <description><![CDATA[<p>2020-06-28</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">3323da86-5d16-4302-a0eb-2af29bad156e</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 28 Jun 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.06.28.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-04]]></title>
+     <description><![CDATA[<p>2020-07-04</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2a141a2c-3eb9-4226-9057-cac6df2b8a4a</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 04 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.04.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-05]]></title>
+     <description><![CDATA[<p>2020-07-05</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">29d3dcd2-6e57-45ff-824d-c032985810e0</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 05 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.05.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-11]]></title>
+     <description><![CDATA[<p>2020-07-11</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a501890f-efd9-408d-af0a-06b06b5d0e13</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 11 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.11.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-12]]></title>
+     <description><![CDATA[<p>2020-07-12</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">bfaf048f-f14b-4760-b847-07ca95fa14fc</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 12 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.12.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-18]]></title>
+     <description><![CDATA[<p>2020-07-18</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">fe202822-c48f-40d7-b33f-e1ae712f9e52</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 18 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.18.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-19]]></title>
+     <description><![CDATA[<p>2020-07-19</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">f2ff506e-82ba-4106-bf74-ef63e669b9ca</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 19 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.19.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-25]]></title>
+     <description><![CDATA[<p>2020-07-25</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">458129a6-df96-42f3-b092-9f144188100b</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 25 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.25.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-07-26]]></title>
+     <description><![CDATA[<p>2020-07-26</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">fe89bf4b-21d6-461f-ab37-d98dc8b26d58</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 26 Jul 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.07.26.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-01]]></title>
+     <description><![CDATA[<p>2020-08-01</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">3bce1e0e-7ce6-4e3b-b5df-18030bbab8a2</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 01 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.01.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-02]]></title>
+     <description><![CDATA[<p>2020-08-02</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">78ac0605-b57d-420b-a1ab-baa5afd7bcce</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 02 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.02.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-08]]></title>
+     <description><![CDATA[<p>2020-08-08</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">7d18d1ff-15cb-4540-b0e1-313cc1274193</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 08 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.08.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-09]]></title>
+     <description><![CDATA[<p>2020-08-09</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">088f69f2-ca5b-4e70-a8aa-c5a098383396</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 09 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.09.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-15]]></title>
+     <description><![CDATA[<p>2020-08-15</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">477c5e8c-2eca-4926-8993-5b0321ee292d</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 15 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.15.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-16]]></title>
+     <description><![CDATA[<p>2020-08-16</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">330c7e70-63a8-47a5-b84e-3b5afd29eac6</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 16 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.16.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-22]]></title>
+     <description><![CDATA[<p>2020-08-22</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">be9808d5-189a-4939-a3e4-11acda923350</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 22 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.22.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-23]]></title>
+     <description><![CDATA[<p>2020-08-23</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">efa2cf7b-1d13-455e-9263-07261811c5b3</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 23 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.23.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-29]]></title>
+     <description><![CDATA[<p>2020-08-29</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">5490c00d-43d1-4d28-9946-eb306bbfb35f</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 29 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.29.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-08-30]]></title>
+     <description><![CDATA[<p>2020-08-30</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">0fbc7c3a-2331-483c-bd1d-632c3129bbac</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 30 Aug 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.08.30.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-05]]></title>
+     <description><![CDATA[<p>2020-09-05</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">3685d275-f846-4e7a-93a9-33adb896f101</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 05 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.05.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-06]]></title>
+     <description><![CDATA[<p>2020-09-06</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">4b78a0ec-7dd7-41d5-9648-7e209aab695a</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 06 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.06.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-12]]></title>
+     <description><![CDATA[<p>2020-09-12</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">9e3057e8-f5ae-495d-9c8d-333173188467</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 12 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.12.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-13]]></title>
+     <description><![CDATA[<p>2020-09-13</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a5441b4f-7d24-4912-b5b8-e22f3e8a1332</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 13 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.13.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-19]]></title>
+     <description><![CDATA[<p>2020-09-19</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">13d4f9e2-22ec-4970-b34f-2c1f22afbd4c</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 19 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.19.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-20]]></title>
+     <description><![CDATA[<p>2020-09-20</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">41160062-9313-4ca7-9a1e-21e3a4e661a1</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 20 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.20.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-26]]></title>
+     <description><![CDATA[<p>2020-09-26</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">7c5bfec7-42a4-4406-84e5-269d1c6938f2</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 26 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.26.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-09-27]]></title>
+     <description><![CDATA[<p>2020-09-27</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">3a920ca7-bad2-4fc5-a91d-f41a670e0b62</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 27 Sep 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.09.27.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-03]]></title>
+     <description><![CDATA[<p>2020-10-03</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">d3c47806-1d15-40e8-92da-0983fc699742</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 03 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.03.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-04]]></title>
+     <description><![CDATA[<p>2020-10-04</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">f46d056c-d77f-4031-a86a-f3967eb483a5</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 04 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.04.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-10]]></title>
+     <description><![CDATA[<p>2020-10-10</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">d21127a5-2be0-41a0-902b-00ed48b1fc05</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 10 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.10.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-11]]></title>
+     <description><![CDATA[<p>2020-10-11</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">d028891a-4888-4c53-8f3d-7b3dbcc52512</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 11 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.11.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-17]]></title>
+     <description><![CDATA[<p>2020-10-17</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">3a387cf3-a391-4f49-bdf0-9d24e236dd74</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 17 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.17.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-18]]></title>
+     <description><![CDATA[<p>2020-10-18</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">34f428b3-a183-4f49-9bb6-7dfc36988d15</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 18 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.18.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-24]]></title>
+     <description><![CDATA[<p>2020-10-24</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">600fe3a3-e90c-4500-b7c8-f2d9aaf35cd7</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 24 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.24.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-25]]></title>
+     <description><![CDATA[<p>2020-10-25</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">02544c5b-717f-4e7f-9263-5208adb92cc6</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 25 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.25.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-10-31]]></title>
+     <description><![CDATA[<p>2020-10-31</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">2c5bcd3a-5004-4b3b-9f95-ae1a59486c49</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 31 Oct 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.10.31.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-01]]></title>
+     <description><![CDATA[<p>2020-11-01</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">1773bc2f-a9b5-47fe-b519-ff9d6e216cf7</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 01 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.01.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-07]]></title>
+     <description><![CDATA[<p>2020-11-07</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">c6a7efbc-f3e8-4807-9842-9251d68a3d9f</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 07 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.07.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-08]]></title>
+     <description><![CDATA[<p>2020-11-08</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">d26855de-7e10-48f4-b899-aaac0e7e148a</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 08 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.08.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-14]]></title>
+     <description><![CDATA[<p>2020-11-14</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">c3e72d39-c7bf-4384-8c40-01104f74f5c4</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 14 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.14.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-15]]></title>
+     <description><![CDATA[<p>2020-11-15</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">e670e1e4-d6e7-4526-8366-b89f7de93096</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 15 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.15.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-21]]></title>
+     <description><![CDATA[<p>2020-11-21</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a2c18c15-0ab7-477e-acf3-772fa511136e</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 21 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.21.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-22]]></title>
+     <description><![CDATA[<p>2020-11-22</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">8e0f63c1-fd87-43b0-be65-3c5128d1ecc3</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 22 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.22.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-28]]></title>
+     <description><![CDATA[<p>2020-11-28</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">5c1082cd-cd2d-4f8e-9e75-6f2fdceeb673</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 28 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.28.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-11-29]]></title>
+     <description><![CDATA[<p>2020-11-29</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">508c3977-0a2b-48c5-9fc1-d0e9fce10723</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 29 Nov 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.11.29.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-05]]></title>
+     <description><![CDATA[<p>2020-12-05</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">505e8c78-aa63-4e5f-a781-da8edff36aac</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 05 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.05.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-06]]></title>
+     <description><![CDATA[<p>2020-12-06</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">61f87420-ba57-4a72-b26a-49bf2d4f4349</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 06 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.06.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-12]]></title>
+     <description><![CDATA[<p>2020-12-12</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">76f1d4fa-dad2-4926-8a1c-a3cf8880017c</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 12 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.12.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-13]]></title>
+     <description><![CDATA[<p>2020-12-13</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a20413e7-277f-42e7-9de6-e822a58c1278</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 13 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.13.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-19]]></title>
+     <description><![CDATA[<p>2020-12-19</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">efa04794-26ff-4af0-9599-75d73d3c2783</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 19 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.19.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-20]]></title>
+     <description><![CDATA[<p>2020-12-20</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">a3b90ac3-66ac-467c-95d1-a98abdb8f8dd</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 20 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.20.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-26]]></title>
+     <description><![CDATA[<p>2020-12-26</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">ad305324-83d5-4b2d-98a1-864e630b2443</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sat, 26 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.26.mp3" type="audio/mpeg"/>
+   </item>
+   <item>
+     <title><![CDATA[2020-12-27]]></title>
+     <description><![CDATA[<p>2020-12-27</p>]]></description>
+     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>
+     <guid isPermaLink="false">287490fb-429e-402e-9e14-175399f3d4dd</guid>
+     <dc:creator><![CDATA[Marshall]]></dc:creator>
+     <pubDate>Sun, 27 Dec 2020 06:00:00 GMT</pubDate>
+     <enclosure url="https://dl1.loveq.cn:8090/program/2020/2020.12.27.mp3" type="audio/mpeg"/>
+   </item>
+ </channel>
 </rss>
