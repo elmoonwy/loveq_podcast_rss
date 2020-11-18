@@ -2,15 +2,31 @@
 
 require 'date'
 require 'securerandom'
+require 'base64'
 
 year = ARGV[0]
 output_path = "loveq-#{year}.rss"
+INTERVAL = 1.5
 
 start_date = Date.parse(year+"-01-01")
 end_date = Date.parse(year+"-12-31")
 
 if File.exist? output_path
   throw "Found file #{output_path}, please delete the file to continue"
+end
+
+def generate_link(year, month, day)
+  candidates = [
+    "#{year}.#{month.to_s.rjust(2, "0")}.#{day.to_s.rjust(2, "0")}", # 2020-01-01
+    "#{year}.#{month}.#{day}", # 2020-1-1
+  ]
+  candidates.each { |candidate|
+    url = "https://dl1.loveq.cn:8090/program/#{year}/#{candidate}.mp3"
+    res = `curl --output /dev/null --silent --head -fail #{url}; echo $?`
+    puts "Found #{url}" if res.strip == "0"
+    return url if res.strip == "0"
+  }
+  nil
 end
 
 File.open(output_path, "w") do |f|
@@ -51,6 +67,12 @@ File.open(output_path, "w") do |f|
 
   for day in (start_date...end_date) do
     if day.saturday? or day.sunday?
+      link = generate_link(day.year, day.month, day.day)
+      sleep INTERVAL
+      if not link
+        puts "Failed to find match link with day #{day.to_s}"
+        next
+      end
       f.write '   <item>'
       f.write "\n"
       f.write "     <title><![CDATA[#{day.to_s}]]></title>"
@@ -59,14 +81,15 @@ File.open(output_path, "w") do |f|
       f.write "\n"
       f.write '     <link>https://anchor.fm/gongxifacai/episodes/2020-10-17-elet81</link>'
       f.write "\n"
-      f.write "     <guid isPermaLink=\"false\">#{SecureRandom.uuid}</guid>"
+      f.write "     <guid isPermaLink=\"false\">#{([Base64.urlsafe_encode64(day.to_s)]*3).join('-')}</guid>"
       f.write "\n"
       f.write '     <dc:creator><![CDATA[Marshall]]></dc:creator>'
       f.write "\n"
       f.write "     <pubDate>#{day.strftime("%a, %d %b %Y")} 06:00:00 GMT</pubDate>"
       f.write "\n"
       #f.write '     <pubDate>Sun, 11 Oct 2020 01:00:00 GMT</pubDate>'
-      f.write "     <enclosure url=\"https://dl1.loveq.cn:8090/program/2020/#{day.to_s.gsub('-', '.')}.mp3\" type=\"audio/mpeg\"/>"
+      f.write "     <enclosure url=\"#{link}\" type=\"audio/mpeg\"/>"
+      #f.write "     <enclosure url=\"https://dl1.loveq.cn:8090/program/2020/#{day.to_s.gsub('-', '.')}.mp3\" type=\"audio/mpeg\"/>"
       f.write "\n"
       f.write '   </item>'
       f.write "\n"
